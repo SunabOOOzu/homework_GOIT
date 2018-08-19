@@ -57,7 +57,7 @@ ul {
   display: none;
   /* при появлении .submenu окажется поверх других элементов */
   position: absolute;
-  top: 50px;
+  top: 47px;
   left: 0px;
   list-style: none;
   border: 1px solid #cccccc;
