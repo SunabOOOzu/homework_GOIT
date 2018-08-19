@@ -75,7 +75,8 @@ nav a {
 
 nav {
     margin: 0 auto;
-    width: 1600px;
+    width: 100%;
+    max-width: 1600px;
     display: flex;
     flex-direction: row;
 
