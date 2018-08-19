@@ -130,6 +130,7 @@ background-size: 15px;
   }
 .menu {
   flex-direction: row;
+  width: 1600px;
 }
 .menu-item { 
   width: 33.3%;
